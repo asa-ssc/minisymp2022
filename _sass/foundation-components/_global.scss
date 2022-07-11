@@ -400,7 +400,7 @@ $cursor-text-value: text !default;
   @if $include-html-global-classes {
 
     // Must be 100% for off canvas to work
-    html, body { height: 100%; }
+    html, body { min-height: 100vh; }
 
     // Set box-sizing globally to handle padding and border widths
     *,

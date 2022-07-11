@@ -297,10 +297,17 @@ body.video cite { color: #fff; }
     background: $subfooter-bg;
     color: $subfooter-color;
     padding-top: 30px;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
 }
 
 #subfooter-left ul.inline-list {
     float: left;
+}
+
+#subfooter-middle {
+    text-align: center;
 }
 
 .credits a {
@@ -334,7 +341,13 @@ body.video cite { color: #fff; }
   }
 }
 
+html, body {
+    height: auto !important;
+}
 
+t30 {
+    padding-bottom: 20vh !important;
+}
 
 /* CSS-Classes to add margin at top or bottom
 ------------------------------------------------------------------- */
@@ -342,7 +355,7 @@ body.video cite { color: #fff; }
 .t10 { margin-top: 10px !important; }
 .t15 { margin-top: 15px !important; }
 .t20 { margin-top: 20px !important; }
-.t30 { margin-top: 30px !important; }
+.t30 { margin-top: 30px !important; padding-bottom: 20vh !important;}
 .t50 { margin-top: 50px !important; }
 .t60 { margin-top: 60px !important; }
 .t70 { margin-top: 70px !important; }
