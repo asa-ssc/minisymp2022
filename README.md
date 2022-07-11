@@ -1,11 +1,11 @@
 ## ASA minisymposium pages
 
-+ Homepage: https://asa-ssc.github.io/minisymp2022/
-+ The template is cloned from https://github.com/Phlow/feeling-responsive
++ Homepage: https://asa-ssc.github.io/minisymp2022/.
++ The template is cloned from https://github.com/Phlow/feeling-responsive.
 + Documentations are avaliable at https://phlow.github.io/feeling-responsive/ 
   and `pages/documentation.md`.
 
-## Edit/add website
+## Edit/add pages
 
 + Site title: `_config.yml`->`title`.
 + Menu bar: `_data/navigation.yml`.

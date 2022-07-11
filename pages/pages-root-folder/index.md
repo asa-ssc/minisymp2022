@@ -6,9 +6,9 @@ permalink: /index.html
 homepage: true
 ---
 
-![asdfsf](images/UCONN.jpg)
+![asdfsf](docs/UCONN.jpg)
 
-[pdf](images/ggplot2-cheatsheet.pdf)
+[pdf](docs/ggplot2-cheatsheet.pdf)
 
 <a href="https://en.wikipedia.org/wiki/Normal_distribution">Normal distribution</a>
 
