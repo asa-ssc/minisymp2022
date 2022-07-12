@@ -6,7 +6,7 @@ permalink: /index.html
 homepage: true
 ---
 
-![asdfsf](docs/UCONN.jpg)
+![UCONN](docs/UCONN.jpg =200x)
 
 [pdf](docs/ggplot2-cheatsheet.pdf)
 
