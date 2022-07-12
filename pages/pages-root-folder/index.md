@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Mini Symposium 2022"
+title: "Minisymposium 2022"
 header: no
 permalink: /index.html
 homepage: true
