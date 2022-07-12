@@ -6,7 +6,7 @@ permalink: /index.html
 homepage: true
 ---
 
-![UCONN](docs/UCONN.jpg){.imgfloat}
+<img class="imgfloat" src="images/UCONN.jpg" alt="UCONN"/>
 
 [pdf](docs/ggplot2-cheatsheet.pdf)
 
