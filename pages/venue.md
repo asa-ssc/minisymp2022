@@ -5,4 +5,5 @@ header: no
 permalink: /venue/
 ---
 
-Add contents here.
+The conference link and password will be sent to registrants before the event.
+

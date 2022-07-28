@@ -6,8 +6,24 @@
   url: "/program/"
   side: right
 
+- title: Jamboree
+  url: "/jamboree/"
+  side: right
+
+- title: Registration
+  url: "/registration/"
+  side: right
+
 - title: Venue
   url: "/venue/"
+  side: right
+
+- title: Committees
+  url: "/committees/"
+  side: right
+
+- title: Sponsors
+  url: "/sponsors/"
   side: right
 
 - title: "Contact"

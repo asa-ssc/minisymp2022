@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'ASA Minisymposium 2022'
+title: 'ASA SSC Mini-Symposium 2022'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 # slogan: 'A Flexible Theme for Jekyll'
@@ -42,7 +42,7 @@ urlimg: 'https://asa-ssc.github.io/minisymp2022/images/'
 
 
 # Logo size is 600x80 pixels
-# logo: "logo.png"
+logo: "logo.jpg"
 
 # Plugins
 plugins:

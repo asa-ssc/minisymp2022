@@ -5,4 +5,13 @@ header: no
 permalink: /program/
 ---
 
-Add contents here.
+(Tentative) All times are Central Time.
+
++ 11:00 am -- 12:10 pm: Keynote Talk
++ 12:15 pm -- 01:45 pm: Data Jamboree (each language will be allocated 20
+  minutes to tackle the same problems from the NYC Crash data)
+    - Julia
+    - Python
+    - R
+    - SAS
++ 02:00 pm -- 03:30 pm: Data Science Career Panel
