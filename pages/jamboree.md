@@ -12,13 +12,24 @@ real-time full data with documentation is available from
 Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95).
 Here we only consider a subset which contains the crashes in [January,
 2022](https://github.com/statds/ids-s22/raw/main/notes/data/nyc_mv_collisions_202201.csv).
+This dataset contains a column of zip code for each crash.
 
-Since the data contains a column of zip code, we can get zip-code level data
-from the census. ....
 
-For visualization, the zip code boundaries of NYC can be found at
-<https://data.cityofnewyork.us/Business/Zip-Code-Boundaries/i8iw-xf4u>.
+The median household income at the zip code level from the American Community
+Survey can be obtained from the
+[census with appropriate
+filters](https://data.census.gov/cedsci/table?t=Income%20%28Households,%20Families,%20Individuals%29&g=0400000US36%248600000&y=2020&tid=ACSST5Y2020.S1903). 
+A copy of the downloaded data with documentation is
+[here](https://github.com/statds/ids-s22/raw/main/notes/data/ACSST5Y2020.S1903_2022-07-29T145042.zip).
+The zip code level crash data of NYC can be merged with the median hoursehold
+income when zip code level analyses are of  interest. The zip code boundaries of
+NYC can be downloaded from [NYC open
+data](https://data.cityofnewyork.us/Business/Zip-Code-Boundaries/i8iw-xf4u).
 
+
++ Create a frequency table of the number of crashes by borough.
++ Create a `hour` variable with integer values from 0 to 23, and plot of the
+  histogram of crashes by hour.
 + Check if the number of persons killed is the summation of the number of
   pedestrians killed, cyclist killed, and motorists killed. From now on, use the
   number of persons killed as the sum of the pedestrians, cyclists, and
@@ -30,7 +41,7 @@ For visualization, the zip code boundaries of NYC can be found at
 + Create a new variable death which is one if the number of persons killed is 1
   or more; and zero otherwise. Construct a cross table for death versus
   borough. Test the null hypothesis that the two variables are not associated.
-+ Visualize the crashes, possibly by animation.
++ Visualize the crashes.
 + Fit a logistic model with death as the outcome variable and covariates that
   are available in the data or can be engineered from the data. Example
   covariates are crash hour, borough, number of vehicles involved,
