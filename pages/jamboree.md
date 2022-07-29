@@ -30,13 +30,12 @@ For visualization, the zip code boundaries of NYC can be found at
 + Create a new variable death which is one if the number of persons killed is 1
   or more; and zero otherwise. Construct a cross table for death versus
   borough. Test the null hypothesis that the two variables are not associated.
++ Visualize the crashes, possibly by animation.
 + Fit a logistic model with death as the outcome variable and covariates that
   are available in the data or can be engineered from the data. Example
   covariates are crash hour, borough, number of vehicles involved,
   etc. Interprete your results.
-+ In preparation for the class event at the NYC Open Data Week on March 8,
-  suggest a meaningful question that can be answered by the data (but no need
-  answer it this time; that will be for next week). You may think about
-  comparison with data from other periods, in which case, you will need to
-  download the right data.
++ Aggregate the data to the zip-code level and connect with the census data at
+  the zip-code level.
++ Visualize and model the count of crashes at the zip-code level.
 
