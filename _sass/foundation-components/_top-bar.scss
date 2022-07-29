@@ -39,14 +39,16 @@ $topbar-link-bg-active: $primary-color !default;
 $topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%) !default;
 $topbar-link-font-family: $body-font-family !default;
 $topbar-link-text-transform: none !default;
-$topbar-link-padding: ($topbar-height / 3) !default;
+$topbar-link-padding: ($topbar-height / 6) !default;
+// $topbar-link-padding: 8px;
 $topbar-back-link-size: rem-calc(18) !default;
 $topbar-link-dropdown-padding: rem-calc(20) !default;
 $topbar-button-font-size: 0.75rem !default;
 $topbar-button-top: 7px !default;
 
 // Style the top bar dropdown elements
-$topbar-dropdown-bg: $oil !default;
+// $topbar-dropdown-bg: $oil !default;
+$topbar-dropdown-bg: white;
 $topbar-dropdown-link-color: $white !default;
 $topbar-dropdown-link-color-hover: $topbar-link-color-hover !default;
 $topbar-dropdown-link-bg: $oil !default;
@@ -72,7 +74,7 @@ $topbar-menu-link-color-toggled: $jumbo !default;
 $topbar-menu-icon-color-toggled: $jumbo !default;
 
 // Transitions and breakpoint styles
-$topbar-transition-speed: 300ms !default;
+$topbar-transition-speed: 0ms !default;
 // Using rem-calc for the below breakpoint causes issues with top bar
 $topbar-breakpoint: #{lower-bound($medium-range)} !default; // Change to 9999px for always mobile layout
 $topbar-media-query: $medium-up !default;
@@ -127,8 +129,13 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
       width: 100%;
       #{$default-float}: 0;
       position: fixed;
-      top: 0;
+      // top: 0;
       z-index: 99;
+
+      // #nav-icon {
+      //   margin-left: 102px;
+      //   position: absolute;
+      // }
 
       &.expanded:not(.top-bar) {
         overflow-y: auto;
@@ -153,7 +160,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
       overflow: hidden;
       height: $topbar-height;
       line-height: $topbar-height;
-      position: relative;
+      position: inherit;
       background: $topbar-bg;
       margin-bottom: $topbar-margin-bottom;
 
@@ -217,9 +224,9 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
 
       // Menu toggle button on small devices
       .toggle-topbar {
-        position: absolute;
-        #{$opposite-direction}: 0;
-        top: 0;
+        // position: absolute;
+        // #{$opposite-direction}: 0;
+        // top: 0;
 
         a {
           color: $topbar-link-color;

@@ -2117,7 +2117,7 @@ function FastClick(a,b){"use strict";function c(a,b){return function(){return a.
         }
 
         // Pad body when sticky (scrolled) or fixed.
-        self.add_custom_rule('.f-topbar-fixed { padding-top: ' + topbar.data('height') + 'px }');
+        self.add_custom_rule('.f-topbar-fixed { padding-top: ' + 2 * topbar.data('height') + 'px }');
 
         if (topbarContainer.hasClass('fixed')) {
           self.S('body').addClass('f-topbar-fixed');

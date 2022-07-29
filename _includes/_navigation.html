@@ -4,25 +4,31 @@
 *  edit `_data/navigation.yml`.
 *
 {% endcomment %}
-<div id="navigation" class="sticky">
-  <nav class="top-bar" role="navigation" data-topbar data-options="scrolltop: false">
-    <ul class="title-area">
-      <li class="name">
-      <h1 class="hide-for-large-up" >
-        <a href="{{ site.url }}{{ site.baseurl }}/"> 
-          <img class="" src="{{ site.url }}{{ site.baseurl }}/images/{{ site.logo }}" 
-          alt="{{ site.title }} – {{ site.slogan }}" 
-          style="height: 50px; padding-left: 0px; background: transparent"> {{ site.title }}</a></h1>
-    </li>
-       <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
-      <li class="toggle-topbar toggle-topbar-click mneu-icon"><a><span>Nav</span></a></li>
-    </ul>
-    <section class="top-bar-section">
-      <ul class="title-area show-for-large-up">
-        <li class="name">
-        <h1 class="show-for-large-up">
-          <a href="{{ site.url }}{{ site.baseurl }}/">{{ site.title }}</a></h1>
-      </li>
+
+<div class="row" style=" margin-left: 0px; 
+    margin-right: 0px; min-width: 100%;
+    padding-top: 5px; 
+    box-shadow: 0 2px 3px 0 rgb(0 0 0 / 20%);
+    position:fixed; top:0px;
+    background-color: white;
+    z-index: 99;">
+  <span>
+    <img class="" src="{{ site.url }}{{ site.baseurl }}/images/{{ site.logo }}" alt="logo" 
+      style="max-height: 90px; width: auto; padding-left: 5px; padding-right: 10px; background: transparent; float: left;">
+  </span>
+  <span>
+    <div class="row" style="height: 50px;">
+      <h3 style="color: black; font-weight: bold; font-family: 'Volkhov',Georgia,Times,serif; margin-top: 10px;">
+        <a href="{{ site.url }}{{ site.baseurl }}/" style="color:black">{{ site.title }}</a></h3>
+    </div>
+
+    <div id="navigation" class="">
+      <nav class="top-bar" role="navigation" data-topbar data-options="scrolltop: false">
+        <ul class="title-area">
+           <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+          <li class="toggle-topbar toggle-topbar-click"><a><span>Nav</span></a></li>
+        </ul>
+        <section class="top-bar-section">
       </ul>
 {% comment %}
 
@@ -34,7 +40,7 @@
                                           /____/
 
 {% endcomment %}
-      <ul class="left">
+      <ul class="left" id = "left-menu" style="width: auto;">
         {% for link in site.data.navigation %}
 
               {% if link.url contains 'http' %}
@@ -146,4 +152,6 @@
      
     </section>
   </nav>
-</div><!-- /#navigation -->
+  </div>
+  </span>
+  </div>

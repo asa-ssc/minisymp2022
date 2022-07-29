@@ -376,7 +376,7 @@ $alert-font-size: rem-calc(15);
 // $alert-radius: $global-radius;
 
 // We use this to control transition effects
-// $alert-transition-speed: 300ms;
+$alert-transition-speed: 0ms;
 // $alert-transition-ease: ease-out;
 
 // 03. Block Grid
@@ -869,7 +869,7 @@ $crumb-slash: "/";
 // $tabbar-hamburger-icon-gap: 6px;
 
 // Off Canvas Back-Link Overlay
-// $off-canvas-overlay-transition: background 300ms ease;
+$off-canvas-overlay-transition: background 0ms ease;
 // $off-canvas-overlay-cursor: pointer;
 // $off-canvas-overlay-box-shadow: -4px 0 4px rgba($black, 0.5), 4px 0 4px rgba($black, 0.5);
 // $off-canvas-overlay-background: rgba($white, 0.2);
@@ -1339,7 +1339,7 @@ $table-head-bg: $grey-2;
 
 // Radius and transition speed for thumbs
 // $thumb-radius: $global-radius;
-// $thumb-transition-speed: 200ms;
+$thumb-transition-speed: 0ms;
 
 // 33. Tooltips
 // - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1374,7 +1374,7 @@ $table-head-bg: $grey-2;
 // $include-html-top-bar-classes: $include-html-classes;
 
 // Height and margin
-$topbar-height: rem-calc(50);
+$topbar-height: rem-calc(45);
 // $topbar-margin-bottom: 0;
 
 // Controlling the styles for the title in the top bar
@@ -1428,7 +1428,7 @@ $topbar-menu-link-transform: uppercase;
 // $topbar-menu-icon-color-toggled: $ci-6;
 
 // Transitions and breakpoint styles
-// $topbar-transition-speed: 300ms;
+$topbar-transition-speed: 0ms;
 // Using rem-calc for the below breakpoint causes issues with top bar
 $topbar-breakpoint: #{lower-bound($large-range)}; // Change to 9999px for always mobile layout
 $topbar-media-query: "only screen and (min-width: #{$topbar-breakpoint})" !default;

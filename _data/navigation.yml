@@ -1,31 +1,31 @@
 - title: Home
   url: "/"
-  side: right
+  side: left
 
 - title: Program
   url: "/program/"
-  side: right
+  side: left
 
 - title: Jamboree
   url: "/jamboree/"
-  side: right
+  side: left
 
 - title: Registration
   url: "/registration/"
-  side: right
+  side: left
 
 - title: Venue
   url: "/venue/"
-  side: right
+  side: left
 
 - title: Committees
   url: "/committees/"
-  side: right
+  side: left
 
 - title: Sponsors
   url: "/sponsors/"
-  side: right
+  side: left
 
 - title: "Contact"
   url: "/contact/"
-  side: right
+  side: left

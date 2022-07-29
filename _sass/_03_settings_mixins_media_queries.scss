@@ -68,9 +68,9 @@ $base-font-size: 100% !default;
 //
 // We use this to add transitions to elements
 // $property - Default: all, Options: http://www.w3.org/TR/css3-transitions/#animatable-properties
-// $speed - Default: 300ms
+// $speed - Default: 0ms
 // $ease - Default:ease-out, Options: http://css-tricks.com/almanac/properties/t/transition-timing-function/
-@mixin single-transition($property:all, $speed:300ms, $ease:ease-out) {
+@mixin single-transition($property:all, $speed:0ms, $ease:ease-out) {
   transition: $property $speed $ease;
 }
 
@@ -176,9 +176,9 @@ $base-font-size: 100% !default;
 //
 // We use this to add a glowing effect to block elements
 // $selector - Used for selector state. Default: focus, Options: hover, active, visited
-// $fade-time - Default: 300ms
+// $fade-time - Default: 0ms
 // $glowing-effect-color - Default: fade-out($primary-color, .25)
-@mixin block-glowing-effect($selector:focus, $fade-time:300ms, $glowing-effect-color:fade-out($primary-color, .25)) {
+@mixin block-glowing-effect($selector:focus, $fade-time:0ms, $glowing-effect-color:fade-out($primary-color, .25)) {
   transition: box-shadow $fade-time, border-color $fade-time ease-in-out;
 
   &:#{$selector} {
@@ -252,7 +252,7 @@ $column-gutter: rem-calc(30) !default;
 
 $small-range: (0em, 40em);
 $medium-range: (40.063em, 64em);
-$large-range: (83.063em, 90em);
+$large-range: (835px, 90em);
 $xlarge-range: (90.063em, 120em);
 $xxlarge-range: (120.063em, 99999999em);
 
@@ -368,6 +368,7 @@ $cursor-text-value: text !default;
     // Default body styles
     body {
       background: $body-bg;
+      overflow-x: hidden;
       color: $body-font-color;
       padding: 0;
       margin: 0;
