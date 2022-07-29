@@ -10,7 +10,7 @@ homepage: true
 + **Location:** Online
 
 Organized by the [ASA Section on Statistical
-Comp[uting](https://community.amstat.org/jointscsg-section/home), the
+Computing](https://community.amstat.org/jointscsg-section/home), the
 mini-symposium aims to
 
 + showcase the power/beauty of statistical computing to students;
