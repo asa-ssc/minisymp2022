@@ -16,7 +16,13 @@ format: page-fullwidth
 {% endif %}
 
 
-<div class="row t30">
+<div class="t30">
+	<div class="show-for-large-up columns" style="width: 130px; margin-left: 3vh; padding-right: 0;" id="img-div">
+		<a href="{{ site.url }}{{ site.baseurl }}/"> 
+			<img class="" src="{{ site.url }}{{ site.baseurl }}/images/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}" 
+			style="height: 100%; padding-right: 0px; background: transparent;"></a>
+	</div>
+	<div class="row">
 	<div class="medium-12 columns">
 		<article>
 			<header>
@@ -33,6 +39,7 @@ format: page-fullwidth
 			{{ content }}
 		</article>
 	</div><!-- /.medium-12.columns -->
+</div>
 </div><!-- /.row -->
 
 
