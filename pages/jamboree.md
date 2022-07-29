@@ -22,7 +22,7 @@ Survey can be obtained from the
 filters](https://data.census.gov/cedsci/table?t=Income%20%28Households,%20Families,%20Individuals%29&g=0400000US36%248600000&y=2020&tid=ACSST5Y2020.S1903). 
 We downloaded the [income data for all the zip codes in the NY
 State from the 2020 American Community
-Survey]((https://github.com/statds/ids-s22/raw/main/notes/data/ACSST5Y2020.S1903_2022-07-29T145042.zip).
+Survey](https://github.com/statds/ids-s22/raw/main/notes/data/ACSST5Y2020.S1903_2022-07-29T145042.zip).
 The column `S1903_C03_015E` contains the median income of all 1794 zip codes in
 the NY State.
 The zip code level crash data of NYC can be merged with the median hoursehold
