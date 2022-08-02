@@ -25,7 +25,7 @@ State from the 2020 American Community
 Survey](https://github.com/statds/ids-s22/raw/main/notes/data/ACSST5Y2020.S1903_2022-07-29T145042.zip).
 The column `S1903_C03_015E` contains the median income of all 1794 zip codes in
 the NY State.
-The zip code level crash data of NYC can be merged with the median hoursehold
+The zip code level crash data of NYC can be merged with the median household
 income when zip code level analyses are of  interest. The zip code boundaries of
 NYC can be downloaded from [NYC open
 data](https://data.cityofnewyork.us/Business/Zip-Code-Boundaries/i8iw-xf4u).
