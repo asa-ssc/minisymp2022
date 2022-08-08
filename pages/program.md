@@ -13,5 +13,4 @@ permalink: /program/
     - Julia
     - Python
     - R
-    - SAS
 + 02:00 pm -- 03:30 pm: Data Science Career Panel
