@@ -10,12 +10,13 @@ permalink: /program/
 + 11:00 am -- 11:10 am: Opening Remarks
 + 11:10 am -- 12:10 pm: Keynote Address,
   [Douglas Bates](https://stat.wisc.edu/staff/bates-douglas/), Emeritus
-  Professor, University of Wisconsin-Madison
+  Professor of Statistics, University of Wisconsin-Madison
 + 12:15 pm -- 02:00 pm: [Data Jamboree](../jamboree/) (each language, in alphabetical order,
   will be allocated 25
   minutes to tackle the same problems from the NYC Crash data)
-    - Julia
-    - Python
-    - R
+    - Julia:  [Hua Zhou](https://ph.ucla.edu/faculty/zhou), Professor of
+	Biostatistics, University of California, Los Angeles
+    - Python: TBD
+    - R:  [Sam Tyner](https://sctyner.me), Data Scientist, Tritura
 + 02:00 pm -- 03:30 pm: Penel Discussion, Next Frontiers of Statistical
   Computing in Data Science
