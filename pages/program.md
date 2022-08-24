@@ -46,5 +46,5 @@ permalink: /program/
 	Biostatistics, University of California, Los Angeles
     - Python: TBD
     - R:  [Sam Tyner](https://sctyner.me), Data Scientist, Tritura
-+ 02:00 pm -- 03:30 pm: Penel Discussion, Next Frontiers of Statistical
++ 02:00 pm -- 03:30 pm: Panel Discussion, Next Frontiers of Statistical
   Computing in Data Science
