@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "A mini-symposium hosted by the ASA Section on Statistical Computing (SSC)"
+title: "A mini-symposium"
 header: no
 permalink: /index.html
 homepage: true
