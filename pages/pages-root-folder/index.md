@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Statistical Computing in Action"
+title: "A mini-symposium hosted by the ASA Section on Statistical Computing (SSC)"
 header: no
 permalink: /index.html
 homepage: true
