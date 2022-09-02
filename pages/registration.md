@@ -5,14 +5,21 @@ header: no
 permalink: /registration/
 ---
 
+The registration was designed to encourage becoming Section on Statistical
+Computing (SSC) members. 
+
 - Students:
-    - free for student section members
-    - $10 for non-section ASA student members
-    - $25 for non ASA student members (choose to join our section as one of the
-      free sections)
+    - free for SSC members
+    - $10 for ASA members but not SSC members
+    - $25 for non-ASA members (the same cose for joining ASA and choose SSC as
+      one of the free sections)
 - Non-students:
-    - $10 for section members
-    - $25 for non-section ASA members
-    - $40 for non ASA members
+    - $10 for SSC members
+    - $25 for ASA members but not SSC members
+    - $40 for non-ASA members
+
+For non-ASA members, please consider [joining
+ASA](https://www.amstat.org/membership/become-a-member). 
+For ASA members, please keep your ASA member ID handy for registration.
 
 Registration will open in September.
