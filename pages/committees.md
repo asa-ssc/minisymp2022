@@ -14,6 +14,7 @@ permalink: /committees/
 + [Kun Chen](https://kun-chen.uconn.edu) (co-chair), University of Connecticut
 + [Linglong Kong](https://sites.ualberta.ca/~lkong/) (co-chair), University of Alberta
 + [Sam Tyner](https://sctyner.me), Tritura
++ [Jun Yan](https://stat.uconn.edu/jun-yan/), University of Connecticut 
 + [Hua Zhou](https://ph.ucla.edu/faculty/zhou), University of California, Los Angeles
 
 #### Web Support Committee
