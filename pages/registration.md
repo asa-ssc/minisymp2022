@@ -22,4 +22,4 @@ For non-ASA members, please consider [joining
 ASA](https://www.amstat.org/membership/become-a-member). 
 For ASA members, please keep your ASA member ID handy for registration.
 
-Registration will open in September.
+### Register now on [Eventbrite](https://www.eventbrite.com/e/statistical-computing-in-action-2022-registration-408266324567)!
