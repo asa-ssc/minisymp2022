@@ -17,6 +17,7 @@ mini-symposium aims to
 + help practitioners sharpen their statistical computing skills; and
 + foster community across different computing languages.
 
+[A PDF flyer](images/MiniSymposiumFlyer.pdf).
 
 <!-- ---- -->
 
