@@ -42,8 +42,7 @@ permalink: /program/
 + 12:15 pm -- 02:00 pm: [Data Jamboree](../jamboree/) (each language, in alphabetical order,
   will be allocated 25
   minutes to tackle the same problems from the NYC Crash data)
-    - Julia:  [Hua Zhou](https://ph.ucla.edu/faculty/zhou), Professor of
-	Biostatistics, University of California, Los Angeles
+    - Julia:  [Josh Day](https://heyjoshday.com), Senior Research Scientist, Julia Computing.
     - Python: [Dan Chen](https://daniel.rbind.io/), Postdoctoral Research and Teaching Fellow, University of British Columbia
     - R:  [Sam Tyner](https://sctyner.me), Data Scientist, Tritura
 + 02:00 pm -- 03:30 pm: Panel Discussion, Frontliners and Next Frontiers of Statistical
