@@ -5,7 +5,8 @@ header: no
 permalink: /program/
 ---
 
-(Tentative) All times are Central Time.
+
+**Saturday, November 12, 2022** (All times are Central Time)
 
 + 11:00 am -- 11:10 am: Opening Remarks
 + 11:10 am -- 12:10 pm: Keynote Address,
@@ -45,5 +46,13 @@ permalink: /program/
     - Julia:  [Josh Day](https://heyjoshday.com), Senior Research Scientist, Julia Computing.
     - Python: [Dan Chen](https://daniel.rbind.io/), Postdoctoral Research and Teaching Fellow, University of British Columbia
     - R:  [Sam Tyner](https://sctyner.me), Data Scientist, Tritura
+
 + 02:00 pm -- 03:30 pm: Panel Discussion, Frontliners and Next Frontiers of Statistical
   Computing in Data Science
+    - [Hannah Frick](https://www.linkedin.com/in/hannah-frick), Software Engineer at RStudio PBC. 
+    - [Haoda Fu](https://www.linkedin.com/in/haoda-fu-17a5256/),Enterprise
+      Lead - Machine Learning, Artificial Intelligence,  Eli Lilly.
+    - [Eric Kolacyk](https://sites.bu.edu/kolaczyk), Professor of Statistics, McGill University. 
+    - [Teresa Filshtein Sönmez](https://www.linkedin.com/in/teresa-filshtein-sönmez-80145920),
+      Biostatistician, Quantitative Scientist, 23andMe.
+	  
