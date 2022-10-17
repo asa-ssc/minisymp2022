@@ -49,10 +49,11 @@ permalink: /program/
 
 + 02:00 pm -- 03:30 pm: Panel Discussion, Frontliners and Next Frontiers of Statistical
   Computing in Data Science
-    - [Hannah Frick](https://www.linkedin.com/in/hannah-frick), Software Engineer at RStudio PBC. 
-    - [Haoda Fu](https://www.linkedin.com/in/haoda-fu-17a5256/),Enterprise
-      Lead - Machine Learning, Artificial Intelligence,  Eli Lilly.
-    - [Eric Kolacyk](https://sites.bu.edu/kolaczyk), Professor of Statistics,
+    - [Hannah Frick](https://www.linkedin.com/in/hannah-frick), Software
+      Engineer, Posit
+    - [Haoda Fu](https://www.linkedin.com/in/haoda-fu-17a5256/), 
+      Associate Vice President Enterprise Lead Machine Learning and AI, Eli Lilly.
+    - [Eric Kolacyk](https://sites.bu.edu/kolaczyk), Professor of Statistics and
       Inaugural director of the Computational and Data Systems Initiative
       (CDSI), McGill University. 
     - [Teresa Filshtein Sönmez](https://www.linkedin.com/in/teresa-filshtein-sönmez-80145920),
