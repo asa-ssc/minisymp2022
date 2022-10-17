@@ -10,7 +10,7 @@ permalink: /program/
 
 + 11:00 am -- 11:10 am: Opening Remarks
 + 11:10 am -- 12:10 pm: Keynote Address,
-  [Douglas Bates](https://stat.wisc.edu/staff/bates-douglas/), Emeritus
+  [Douglas Bates](https://scholar.google.com/citations?user=z3KmA0sAAAAJ&hl=en), Emeritus
   Professor of Statistics, University of Wisconsin-Madison:
     <details>
 	<summary>Cross-language technologies for statistics and data science</summary>    
