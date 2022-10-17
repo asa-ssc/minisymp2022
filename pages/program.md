@@ -52,7 +52,9 @@ permalink: /program/
     - [Hannah Frick](https://www.linkedin.com/in/hannah-frick), Software Engineer at RStudio PBC. 
     - [Haoda Fu](https://www.linkedin.com/in/haoda-fu-17a5256/),Enterprise
       Lead - Machine Learning, Artificial Intelligence,  Eli Lilly.
-    - [Eric Kolacyk](https://sites.bu.edu/kolaczyk), Professor of Statistics, McGill University. 
+    - [Eric Kolacyk](https://sites.bu.edu/kolaczyk), Professor of Statistics,
+      Inaugural director of the Computational and Data Systems Initiative
+      (CDSI), McGill University. 
     - [Teresa Filshtein Sönmez](https://www.linkedin.com/in/teresa-filshtein-sönmez-80145920),
       Biostatistician, Quantitative Scientist, 23andMe.
 	  
