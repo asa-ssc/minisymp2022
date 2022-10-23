@@ -48,7 +48,8 @@ permalink: /program/
     - R:  [Sam Tyner](https://sctyner.me), Data Scientist, Tritura
 
 + 02:00 pm -- 03:30 pm: Panel Discussion, Frontliners and Next Frontiers of Statistical
-  Computing in Data Science
+  Computing in Data Science (Moderator: [Kun Chen](https://kun-chen.uconn.edu),
+  University of Connecticut)
     - [Hannah Frick](https://www.linkedin.com/in/hannah-frick), Software
       Engineer, Posit
     - [Haoda Fu](https://www.linkedin.com/in/haoda-fu-17a5256/), 
@@ -58,4 +59,3 @@ permalink: /program/
       (CDSI), McGill University. 
     - [Teresa Filshtein Sönmez](https://www.linkedin.com/in/teresa-filshtein-sönmez-80145920),
       Biostatistician, Quantitative Scientist, 23andMe.
-	  
