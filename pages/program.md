@@ -54,7 +54,7 @@ permalink: /program/
       Engineer, Posit
     - [Haoda Fu](https://www.linkedin.com/in/haoda-fu-17a5256/), 
       Associate Vice President Enterprise Lead Machine Learning and AI, Eli Lilly.
-    - [Eric Kolacyk](https://sites.bu.edu/kolaczyk), Professor of Statistics and
+    - [Eric Kolaczyk](https://sites.bu.edu/kolaczyk), Professor of Statistics and
       Inaugural director of the Computational and Data Systems Initiative
       (CDSI), McGill University. 
     - [Teresa Filshtein Sönmez](https://www.linkedin.com/in/teresa-filshtein-sönmez-80145920),
