@@ -8,9 +8,13 @@ permalink: /program/
 
 **Saturday, November 12, 2022** (All times are Central Time)
 
-+ 11:00 am -- 11:10 am: Opening Remarks
-+ 11:10 am -- 12:10 pm: Keynote Address,
-  [Douglas Bates](https://scholar.google.com/citations?user=z3KmA0sAAAAJ&hl=en), Emeritus
++ 11:00 am -- 11:10 am: Welcoming Remark (Chair: [Jun
+  Yan](https://statistics.uconn.edu/person/jun-yan/), University of Connecticut)
+  - [Ron Wasserstein](https://www.amstat.org/about-asa/ronald-l-wasserstein),
+    Executive Director, ASA
++ 11:10 am -- 12:10 pm: Keynote Address (Chair: [Linglong
+  Kong](https://sites.ualberta.ca/~lkong/), University of Alberta)
+  - [Douglas Bates](https://scholar.google.com/citations?user=z3KmA0sAAAAJ&hl=en), Emeritus
   Professor of Statistics, University of Wisconsin-Madison:
     <details>
 	<summary>Cross-language technologies for statistics and data science</summary>    
@@ -37,12 +41,13 @@ permalink: /program/
     mentioned, and for Jupyter notebooks, and for several other languages and
     data formats.  By gaining familiarity with these tools a data scientist can
     make the transition between analysis languages less traumatic.
-	</details>
-	
+	</details>	
  
-+ 12:15 pm -- 02:00 pm: [Data Jamboree](../jamboree/) (each language, in alphabetical order,
-  will be allocated 25
-  minutes to tackle the same problems from the NYC Crash data)
++ 12:15 pm -- 02:00 pm: [Data Jamboree](../jamboree/)
+  (Chair: Lucy D'Agostino McGowan](https://www.lucymcgowan.com/about/), Wake Forest University): 
+  Eeach language, in alphabetical order, will be allocated 25 
+  minutes to tackle the same problems from the NYC Crash data, followed by
+  questions.
     - Julia:  [Josh Day](https://heyjoshday.com), Senior Research Scientist, Julia Computing.
     - Python: [Dan Chen](https://daniel.rbind.io/), Postdoctoral Research and Teaching Fellow, University of British Columbia
     - R:  [Sam Tyner](https://sctyner.me), Data Scientist, Tritura
