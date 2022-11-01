@@ -45,7 +45,7 @@ permalink: /program/
  
 + 12:15 pm -- 02:00 pm: [Data Jamboree](../jamboree/)
   (Chair: [Lucy D'Agostino McGowan](https://www.lucymcgowan.com/about/), Wake Forest University): 
-  Eeach language, in alphabetical order, will be allocated 25 
+  Each language, in alphabetical order, will be allocated 25 
   minutes to tackle the same problems from the NYC Crash data, followed by
   questions.
     - Julia:  [Josh Day](https://heyjoshday.com), Senior Research Scientist, Julia Computing.
