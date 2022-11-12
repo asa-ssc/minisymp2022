@@ -48,9 +48,9 @@ permalink: /program/
   Each language, in alphabetical order, will be allocated 25 
   minutes to tackle the same problems from the NYC Crash data, followed by
   questions.
-    - Julia:  [Josh Day](https://heyjoshday.com), Senior Research Scientist, Julia Computing.
-    - Python: [Dan Chen](https://daniel.rbind.io/), Postdoctoral Research and Teaching Fellow, University of British Columbia
-    - R:  [Sam Tyner](https://sctyner.me), Data Scientist, Tritura
+    - Julia:  [Josh Day](https://heyjoshday.com), Senior Research Scientist, Julia Computing. [Code](https://github.com/joshday/DataJamboree2022/blob/main/notebook.jl)
+    - Python: [Dan Chen](https://daniel.rbind.io/), Postdoctoral Research and Teaching Fellow, University of British Columbia. [Code](https://github.com/chendaniely/asa-data_jamboree-2022/blob/main/index.qmd)
+    - R:  [Sam Tyner](https://sctyner.me), Data Scientist, Tritura. [Code](https://github.com/sctyner/data-jamboree/blob/main/description.qmd)
 
 + 02:00 pm -- 03:30 pm: Panel Discussion, Frontliners and Next Frontiers of Statistical
   Computing in Data Science (Moderator: [Kun Chen](https://kun-chen.uconn.edu),
