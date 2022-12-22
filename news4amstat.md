@@ -69,7 +69,9 @@ the next 5-10 years.
 
 
 The event was a great success, and we are excited to continue hosting the event in the future. The symposium generated many volunteer
-opportunities for our members, as well as a place for members from different computing communities to have a common conversation. Please get in touch with our section chair, Mine Cetinkya-Rundel, as soon as possible if you are interested in participating and/or organizing future symposia hosted by the Section on Statistical Computing.
+opportunities for our members, as well as a place for members from different
+computing communities to have a common conversation. Please get in touch with
+our 2022 section chair-elect, Mine Cetinkya-Rundel, as soon as possible if you are interested in participating and/or organizing future symposia hosted by the Section on Statistical Computing.
 
 
 The organizing committee consisted of
@@ -78,11 +80,9 @@ Linglong Kong of the University of Alberta;
 Sam Tyner-Monroe of Tritura, Jun Yan of the University of Connecticut, and 
 Hua Zhou of UCLA. As Program Chair-Elect and Program Chair, Chen and Kong
 co-chaired the committee. The committee was supported by a steering committee
-which consisted chair-elect Mine Cetinkya-Rundel of Duke University,  chair Jun
+which consisted 2022 chair-elect Mine Cetinkya-Rundel of Duke University,  chair Jun
 Yan of University of Connecticut, and
 past chair Usha Govindarajulu of Icahn School of Medicine at Mount Sinai.
-
-
 
 
 Officially established in 1972, the Section of Statistical Computing has a
