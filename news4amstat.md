@@ -1,7 +1,7 @@
 ---
 title: Statistical Computing in Action 2022
 subtitle: A Virtual Mini-Symposium Hosted by the Section on Statistical Computing
-author: Jun Yan
+author: Kun Chen, Linglong Kong, Sam Tyner-Menroe, Jun Yan, and Hua Zhou
 geometry: margin=1in
 output:
     pdf_document
@@ -67,8 +67,9 @@ computing. The panelists shared their predictions and hopes for the important ar
 opportunities, and computing tools, among others, for statistical computing in
 the next 5-10 years.
 
+
 The event was a great success, and we are excited to continue hosting the event in the future. The symposium generated many volunteer
-opportunities for our members, as well as a place for members from different computing communities to have a common conversation. Please get in touch with our section chair-elect, Mine Cetinkya-Rundel, as soon as possible if you are interested in participating and/or organizing future symposia hosted by the Section on Statistical Computing.
+opportunities for our members, as well as a place for members from different computing communities to have a common conversation. Please get in touch with our section chair, Mine Cetinkya-Rundel, as soon as possible if you are interested in participating and/or organizing future symposia hosted by the Section on Statistical Computing.
 
 
 The organizing committee consisted of
